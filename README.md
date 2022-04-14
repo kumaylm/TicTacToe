@@ -4,6 +4,6 @@ A text-based version of the Tic Tac Toe game.
 ## Language Used
 Python
 
-## Screenshots
+## See it in Action
 
 ![XO](XO.gif)
